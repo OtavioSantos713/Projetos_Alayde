@@ -2,10 +2,12 @@ prinumero=int()
 segnumero=int()
 somanumero=int()
 
-
-
-
-
+prinumero=int(input("digite o primeiro numero:"))
+print("\n")
+segnumero=int(input("digite o segundo numero:"))
+print("\n")
+somanumero=(prinumero + segnumero)
+print("a soma dos numeros é", somanumero)
 
 
 
