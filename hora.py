@@ -1,0 +1,6 @@
+HORA = int(input("Digite Hora Trabalhada: "))
+SALARIO = float(input("Digiten Quanto Ganha Por Hora: "))
+PAGAMENTO = float(HORA * SALARIO)
+BONUS = float(PAGAMENTO*0.15)
+print("Horas De Trabalho: ", HORA)
+print("Bônus: ", BONUS)

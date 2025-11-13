@@ -1,0 +1,5 @@
+NUM = int(input("Digite um numero: "))
+ANT = int(NUM - 1)
+SUC = int(NUM + 1)
+print("O antecessor será: ", ANT)
+print("O sucessor será: ", SUC)

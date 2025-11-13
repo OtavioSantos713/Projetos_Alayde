@@ -1,0 +1,5 @@
+METROS = float(input("Digite os Metros: "))
+CM = float( METROS * 100)
+ML = float( METROS * 1000)
+print("De metros para cm será: ", CM)
+print("De metros para ml será: ", ML)

@@ -1,0 +1,5 @@
+ALTURA = float(input("Digite altura: "))
+LARGURA = float(input("Digite largura: "))
+AREA = float(ALTURA * LARGURA)
+TINTA = float(AREA /2)
+print("Você Tem Que Comprar Essa Quantia de Tinta ",TINTA, "L")

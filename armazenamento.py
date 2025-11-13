@@ -1,0 +1,5 @@
+GB = float(input("Digite a Quantidade de GigaByte: "))
+MB = float(GB * 1000)
+KB = float(GB * 10000)
+print("A quantidade de Megabyte será: ", MB)
+print("A quantidade de Kilobyte será: ", KB)

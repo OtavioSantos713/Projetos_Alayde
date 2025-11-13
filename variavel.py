@@ -8,7 +8,7 @@ print(nome)
 print(idade)
 print(altura)
 
-print(type (nome))#inpime o tipo da variável
+print(type (nome))#inprime o tipo da variável
 print(type (altura))
 print(type (idade))
 print(type (peso))
